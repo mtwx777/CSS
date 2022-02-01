@@ -28,8 +28,8 @@
 .cats_mvid { background: url('images/categories/music_videos.png'); }
 .cats_gamespc { background: url('images/categories/games_pc.png'); }
 .cats_gamesxbox { background: url('images/categories/games_xbox.png'); }
-.cats_gamesps { background: url('images/categories/games_ps3.png'); }
-.cats_gamesnin { background: url('images/categories/games_wii.png'); }
+.cats_gamesps { background: url('images/categories/games_ps.png'); }
+.cats_gamesnin { background: url('images/categories/games_nin.png'); }
 
 .cats_appswindows { background: url('images/categories/apps.png'); }
 .cats_appsmac { background: url('images/categories/apps.png'); }
