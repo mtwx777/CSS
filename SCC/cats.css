@@ -1,4 +1,4 @@
-.cats_tvsd,.cats_tvhd,.cats_tvdvdrip,.cats_tvpacksd,.cats_tvpackhd,.cats_moviesd,.cats_moviehd,.cats_moviepacksd,.cats_moviepackhd,.cats_moviexxx,.cats_bluray,.cats_animesd,.cats_animehd,.cats_mvid,.cats_gamespc,.cats_gamesxbox,.cats_gamesps3,.cats_gameswii,.cats_appspc,.cats_appsmac,.cats_appslinux,.cats_appsmobile,.cats_0dayxxx,.cats_ebook,.cats_audiobook,.cats_music,.cats_misc {
+.cats_tvsd,.cats_tvhd,.cats_tvuhd,.cats_tvdvdrip,.cats_tvpacksd,.cats_tvpackhd,.cats_tvpackuhd,.cats_moviesd,.cats_moviehd,.cats_movieuhd,.cats_moviepacksd,.cats_moviepackhd,.cats_moviepackuhd,.cats_moviexxx,.cats_bluray,.cats_animesd,.cats_animehd,.cats_mvid,.cats_gamespc,.cats_gamesxbox,.cats_gamesps3,.cats_gameswii,.cats_appspc,.cats_appsmac,.cats_appslinux,.cats_appsmobile,.cats_0dayxxx,.cats_ebook,.cats_audiobook,.cats_music,.cats_misc {
     display: block;
     width: 35px;
     height: 35px;
@@ -7,15 +7,19 @@
 
 /* We're going to opt for the category icon method for now, tags_* is also available */
 .cats_tvsd { background: url('images/categories/sdtv.svg'); }
-.cats_tvhd { background: url('images/categories/hdtv.svg'); } 
+.cats_tvhd { background: url('images/categories/hdtv.svg'); }
+.cats_tvuhd { background: url('images/categories/hdtv.svg'); }
 .cats_tvdvdrip { background: url('images/categories/tvdvd.svg'); }
 .cats_tvpacksd { background: url('images/categories/sdtvpack.svg'); } 
 .cats_tvpackhd { background: url('images/categories/hdtvpack.svg'); }
+.cats_tvpackuhd { background: url('images/categories/hdtvpack.svg'); }
 
 .cats_moviesd { background: url('images/categories/sdmovies.svg'); }
 .cats_moviehd { background: url('images/categories/hdmovies.svg'); }
+.cats_movieuhd { background: url('images/categories/hdmovies.svg'); }
 .cats_moviepacksd { background: url('images/categories/sdmoviepack.svg'); }
 .cats_moviepackhd { background: url('images/categories/hdmoviepack.svg'); }
+.cats_moviepackuhd { background: url('images/categories/hdmoviepack.svg'); }
 .cats_moviexxx { background: url('images/categories/xxxmovies.svg'); }
 .cats_bluray { background: url('images/categories/bluray.svg'); }
 
