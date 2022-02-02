@@ -1,14 +1,14 @@
-Pink https://pitragolos.github.io/CSS/SCC/scc_ar.css
+Pink https://mtwx777.github.io/CSS/SCC/scc_ar.css
 <br>
 Preview
-![Preview](https://pitragolos.github.io/CSS/SCC/SCC.png)
+![Preview](https://mtwx777.github.io/CSS/SCC/SCC.png)
 <br><br>
-Blue https://pitragolos.github.io/CSS/SCC/blue/scc_ar.css
+Blue https://mtwx777.github.io/CSS/SCC/blue/scc_ar.css
 <br>
 Preview
-![Preview](https://pitragolos.github.io/CSS/SCC/SCC_b.png)
+![Preview](https://mtwx777.github.io/CSS/SCC/SCC_b.png)
 <br><br>
-~Green https://pitragolos.github.io/CSS/SCC/green/scc_ar.css
+~Green https://mtwx777.github.io/CSS/SCC/green/scc_ar.css
 <br>
 Preview
-https://pitragolos.github.io/CSS/SCC/green/~
+https://mtwx777.github.io/CSS/SCC/green/~
