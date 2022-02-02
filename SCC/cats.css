@@ -1,4 +1,4 @@
-.cats_tvsd,.cats_tvhd,.cats_tvdvdrip,.cats_tvpacksd,.cats_tvpackhd,.cats_moviesd,.cats_moviehd,.cats_moviepacksd,.cats_moviepackhd,.cats_moviexxx,.cats_bluray,.cats_mvid,.cats_gamespc,.cats_gamesxbox,.cats_gamesps3,.cats_gameswii,.cats_appspc,.cats_appsmac,.cats_appslinux,.cats_appsmobile,.cats_0dayxxx,.cats_ebook,.cats_audiobook,.cats_music,.cats_misc {
+.cats_tvsd,.cats_tvhd,.cats_tvdvdrip,.cats_tvpacksd,.cats_tvpackhd,.cats_moviesd,.cats_moviehd,.cats_moviepacksd,.cats_moviepackhd,.cats_moviexxx,.cats_bluray,.cats_animesd,.cats_animehd,.cats_mvid,.cats_gamespc,.cats_gamesxbox,.cats_gamesps3,.cats_gameswii,.cats_appspc,.cats_appsmac,.cats_appslinux,.cats_appsmobile,.cats_0dayxxx,.cats_ebook,.cats_audiobook,.cats_music,.cats_misc {
     display: block;
     width: 35px;
     height: 35px;
@@ -19,6 +19,8 @@
 .cats_moviexxx { background: url('images/categories/xxxmovies.svg'); }
 .cats_bluray { background: url('images/categories/bluray.svg'); }
 
+.cats_animesd { background: url('images/categories/anime.svg'); }
+.cats_animehd { background: url('images/categories/anime.svg'); }
 .cats_mvid { background: url('images/categories/mvideo.svg'); }
 .cats_gamespc { background: url('images/categories/pcgames.svg'); }
 .cats_gamesxbox { background: url('images/categories/xbgames.svg'); }
