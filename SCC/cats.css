@@ -1,4 +1,4 @@
-.cats_tvsd,.cats_tvhd,.cats_tvuhd,.cats_tvdvdrip,.cats_tvpacksd,.cats_tvpackhd,.cats_tvpackuhd,.cats_moviesd,.cats_moviehd,.cats_movieuhd,.cats_moviepacksd,.cats_moviepackhd,.cats_moviepackuhd,.cats_moviexxx,.cats_bluray,.cats_animesd,.cats_animehd,.cats_mvid,.cats_gamespc,.cats_gamesxbox,.cats_gamesps3,.cats_gameswii,.cats_appspc,.cats_appsmac,.cats_appslinux,.cats_appsmobile,.cats_0dayxxx,.cats_ebook,.cats_audiobook,.cats_music,.cats_misc {
+.cats_tvsd,.cats_tvhd,.cats_tvuhd,.cats_tvdvdrip,.cats_tvpacksd,.cats_tvpackhd,.cats_tvpackuhd,.cats_moviesd,.cats_moviehd,.cats_movieuhd,.cats_moviepacksd,.cats_moviepackhd,.cats_moviepackuhd,.cats_moviexxx,.cats_bluray,.cats_animesd,.cats_animehd,.cats_mvid,.cats_gamespc,.cats_gamesxbox,.cats_gamesps,.cats_gamesps3,.cats_gamesnin,.cats_gameswii,.cats_appswindows,.cats_appspc,.cats_appsmac,.cats_appslinux,.cats_appsmobile,.cats_0dayxxx,.cats_ebook,.cats_audiobook,.cats_music,.cats_misc {
     display: block;
     width: 35px;
     height: 35px;
@@ -26,11 +26,14 @@
 .cats_animesd { background: url('images/categories/anime.svg'); }
 .cats_animehd { background: url('images/categories/anime.svg'); }
 .cats_mvid { background: url('images/categories/mvideo.svg'); }
-.cats_gamespc { background: url('images/categories/pcgames.svg'); }
+.cats_gamespc { background: url('images/categories/pcgames2.svg'); }
 .cats_gamesxbox { background: url('images/categories/xbgames.svg'); }
+.cats_gamesps { background: url('images/categories/psgames2.svg'); }
 .cats_gamesps3 { background: url('images/categories/psgames.svg'); }
+.cats_gamesnin { background: url('images/categories/ningames.svg'); }
 .cats_gameswii { background: url('images/categories/wiigames.svg'); }
 
+.cats_appswindows { background: url('images/categories/windows.svg'); }
 .cats_appspc { background: url('images/categories/windows.svg'); }
 .cats_appsmac { background: url('images/categories/mac.svg'); }
 .cats_appslinux { background: url('images/categories/linux.svg'); }
