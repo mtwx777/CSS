@@ -8,7 +8,7 @@ Blue https://mtwx777.github.io/CSS/SCC/blue/scc_ar.css
 Preview
 ![Preview](https://mtwx777.github.io/CSS/SCC/SCC_b.png)
 <br><br>
-~Green https://mtwx777.github.io/CSS/SCC/green/scc_ar.css
+Green https://mtwx777.github.io/CSS/SCC/green/scc_ar.css
 <br>
 Preview
 https://mtwx777.github.io/CSS/SCC/green/~
